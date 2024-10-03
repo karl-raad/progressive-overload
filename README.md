@@ -7,6 +7,7 @@ It is packaged by feature, uses responsive design to support mobile devices and 
 It is hosted on a public AWS S3 bucket.
 
 The back end leverages AWS Access Gateway, Lambda, DynamoDB and Cognito.
+It uses indexes of DynamoDB to optimize queries over scans.
 Cognito handles authentication with email verification and a custom welcom email.
 
 To deploy the front end:
