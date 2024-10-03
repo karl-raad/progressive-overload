@@ -1,6 +1,6 @@
 [submodule "progressive-overload-frontend"]
 	path = progressive-overload-frontend
-	url = https://github.com/karl-raad/progressive-overload.git
+	url = https://github.com/karl-raad/progressive-overload-frontend.git
 [submodule "progressive-overload-backend"]
 	path = progressive-overload-backend
 	url = https://github.com/karl-raad/progressive-overload-backend.git
