@@ -19,7 +19,7 @@ To deploy the front end:
 - npm build --configuration production
 - cd to /cdk folder
 - cdk bootstrap
-- cdk deploy (to host on an aws s3 bucket)
+- cdk deploy (to host on an AWS S3 bucket)
 
 To deploy the back end (includes dev stack and prod stack):
 - git clone the progressive-overload-backend repository
