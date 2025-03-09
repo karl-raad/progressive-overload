@@ -16,7 +16,7 @@ To deploy the front end:
 - npm install
 - ng serve to test
   OR if you have an AWS account
-- npm build --configuration production
+- ng build --configuration production
 - cd to /cdk folder
 - cdk bootstrap
 - cdk deploy (to host on an AWS S3 bucket)
