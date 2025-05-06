@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e0e86f1-617b-4a8b-a1d9-39c6f0f60717" name="Changes" comment="Added .idea files." />
+    <list default="true" id="7e0e86f1-617b-4a8b-a1d9-39c6f0f60717" name="Changes" comment="Added .idea files.">
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/progressive-overload-backend" beforeDir="false" afterPath="$PROJECT_DIR$/progressive-overload-backend" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/progressive-overload-frontend" beforeDir="false" afterPath="$PROJECT_DIR$/progressive-overload-frontend" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/progressive-overload-frontend/src/app/exercise/exercise-add-edit/exercise-add-edit.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/progressive-overload-frontend/src/app/exercise/exercise-add-edit/exercise-add-edit.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/progressive-overload-frontend/src/app/exercise/exercise-interface.ts" beforeDir="false" afterPath="$PROJECT_DIR$/progressive-overload-frontend/src/app/exercise/exercise-interface.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/progressive-overload-frontend/src/app/exercise/exercise-list/exercise-list.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/progressive-overload-frontend/src/app/exercise/exercise-list/exercise-list.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/progressive-overload-frontend/src/app/exercise/exercise.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/progressive-overload-frontend/src/app/exercise/exercise.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/progressive-overload-frontend/src/app/shared/session-storage.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/progressive-overload-frontend/src/app/shared/session-storage.service.ts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +32,8 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/progressive-overload-backend" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/progressive-overload-frontend" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -47,8 +59,9 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "dev",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/User/Workspace/progressive-overload/progressive-overload-frontend/src/app/maintenance",
+    "last_opened_file_path": "C:/Users/User/Workspace/progressive-overload/progressive-overload-backend/lambda/exercisesData",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -61,6 +74,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Workspace\progressive-overload\progressive-overload-backend\lambda\exercisesData" />
       <recent name="C:\Users\User\Workspace\progressive-overload\progressive-overload-frontend\src\app\maintenance" />
     </key>
   </component>
@@ -82,6 +96,7 @@
       <workItem from="1745557453280" duration="360000" />
       <workItem from="1745572578805" duration="6498000" />
       <workItem from="1745588073568" duration="11717000" />
+      <workItem from="1745903949484" duration="11976000" />
     </task>
     <task id="LOCAL-00001" summary="Added maintenance component.">
       <option name="closed" value="true" />
@@ -115,7 +130,23 @@
       <option name="project" value="LOCAL" />
       <updated>1745903010604</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added .idea files.">
+      <option name="closed" value="true" />
+      <created>1745905643272</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1745905643272</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added .idea files.">
+      <option name="closed" value="true" />
+      <created>1745905690190</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1745905690190</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
