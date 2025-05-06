@@ -4,17 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e0e86f1-617b-4a8b-a1d9-39c6f0f60717" name="Changes" comment="Added .idea files.">
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="7e0e86f1-617b-4a8b-a1d9-39c6f0f60717" name="Changes" comment="Fixed loading spinner on add exercise.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/progressive-overload-backend" beforeDir="false" afterPath="$PROJECT_DIR$/progressive-overload-backend" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progressive-overload-frontend" beforeDir="false" afterPath="$PROJECT_DIR$/progressive-overload-frontend" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progressive-overload-frontend/src/app/exercise/exercise-add-edit/exercise-add-edit.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/progressive-overload-frontend/src/app/exercise/exercise-add-edit/exercise-add-edit.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progressive-overload-frontend/src/app/exercise/exercise-interface.ts" beforeDir="false" afterPath="$PROJECT_DIR$/progressive-overload-frontend/src/app/exercise/exercise-interface.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progressive-overload-frontend/src/app/exercise/exercise-list/exercise-list.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/progressive-overload-frontend/src/app/exercise/exercise-list/exercise-list.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progressive-overload-frontend/src/app/exercise/exercise.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/progressive-overload-frontend/src/app/exercise/exercise.service.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progressive-overload-frontend/src/app/shared/session-storage.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/progressive-overload-frontend/src/app/shared/session-storage.service.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,9 +51,9 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "dev",
+    "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/User/Workspace/progressive-overload/progressive-overload-backend/lambda/exercisesData",
+    "last_opened_file_path": "C:/Users/User/Workspace/progressive-overload",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -81,8 +73,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-PS-251.23774.436" />
-        <option value="bundled-php-predefined-a98d8de5180a-aaeaa8632555-com.jetbrains.php.sharedIndexes-PS-251.23774.436" />
+        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-WS-251.23774.424" />
       </set>
     </attachedChunks>
   </component>
@@ -97,6 +88,7 @@
       <workItem from="1745572578805" duration="6498000" />
       <workItem from="1745588073568" duration="11717000" />
       <workItem from="1745903949484" duration="11976000" />
+      <workItem from="1746497548433" duration="1618000" />
     </task>
     <task id="LOCAL-00001" summary="Added maintenance component.">
       <option name="closed" value="true" />
@@ -146,7 +138,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745905690190</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Fixed loading spinner on add exercise.">
+      <option name="closed" value="true" />
+      <created>1746497599111</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1746497599111</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,7 +157,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -167,6 +179,7 @@
     <MESSAGE value="Added maintenance component." />
     <MESSAGE value="Updated API to v1." />
     <MESSAGE value="Added .idea files." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added .idea files." />
+    <MESSAGE value="Fixed loading spinner on add exercise." />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed loading spinner on add exercise." />
   </component>
 </project>
